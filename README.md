@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Brayan — aka **skrt0x**
 
-🎮 Gamer curioso que quiere entender el mundo del código.  
+🎮 Apasionada a los Videojuegos que quiere entender el mundo del código.  
 💻 Empezando mi camino en la programación y la ciberseguridad.  
 ⚡ Me interesa aprender cómo funcionan los sistemas y cómo mantenerlos seguros.
 
